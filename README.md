@@ -1,6 +1,6 @@
 
 #write main code below 
 
-#hello i am new file 
+#hello i am new main
 
 
